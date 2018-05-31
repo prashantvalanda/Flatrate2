@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Prashant_Flatrate2>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Prashant_Flatrate2>
+    </modules>
+</config>
